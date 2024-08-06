@@ -36,6 +36,10 @@ const posts = ref([
     id: 'id3',
     title: 'Post 3'
   },
+  {
+    id: 'id4',
+    title: 'Post 4'
+  },
 ])
 
 </script>
